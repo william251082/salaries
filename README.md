@@ -1,6 +1,6 @@
 # SALARIES
 
-An app the accepts a csv file then output dates info for employees salaries
+An app that accepts a csv file then output dates info for employees salaries
 
 ### Running
 
