@@ -53,7 +53,6 @@ class Process
         $salaries = $salariesReader->getSalaries();
 
         foreach ($salaries as $skey => $sval) {
-//            var_dump($salaries);
             foreach ($sval as $keySal => $valSal) {
                 $csvWriter->writeLine(
                     $processHandle,
